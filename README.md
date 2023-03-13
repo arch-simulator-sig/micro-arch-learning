@@ -10,6 +10,8 @@
 
 gem5相关实验 [SYSU-ARCH](https://arcsysu.github.io/SYSU-ARCH/) [CS 752 Advanced Topics in Computer Architecture](https://pages.cs.wisc.edu/~sinclair/courses/cs752/fall2020/includes/project.html)
 
+[gem5官方文档入门教程](https://www.gem5.org/documentation/learning_gem5/part1/cache_config/)
+
 
 3. 论文复现 单核->多核 无预取->有预取 默认预取->论文预取   数据获取分析:IPC，预取覆盖率准确率，多核下的指标。
 
