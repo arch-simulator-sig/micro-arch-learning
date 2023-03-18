@@ -5,7 +5,7 @@
 2. 熟练调试波形
 
 ## 初级水平
-1. 复现或完全理解nutshell代码，能够给nutshell提patch
+1. 复现或完全理解nutshell（顺序双发架构）代码，能够给nutshell提patch
 2. 独立完成micro-arch-training
 
 ## 当前项目任务
