@@ -1,7 +1,8 @@
 # micro-arch-learning
 
 ## 入门水平
-一生一芯A线全部完成
+1. 一生一芯A线全部完成
+2. 熟练调试波形
 
 ## 初级水平
 1. 复现或完全理解nutshell代码，能够给nutshell提patch
