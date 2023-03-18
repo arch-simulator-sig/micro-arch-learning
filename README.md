@@ -8,7 +8,7 @@
 1. 复现或完全理解nutshell代码，能够给nutshell提patch
 2. 独立完成micro-arch-training
 
-## 2023项目任务
+## 当前项目任务
 1. 推进nutshell-gem5
 2. 推进nutshell-perf-model
 3. 推进nutshell-systemc-model
