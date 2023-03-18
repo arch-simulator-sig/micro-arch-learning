@@ -1,8 +1,19 @@
 # micro-arch-learning
 
-1. 完成micro-arch-training并对标march-arch-learning做记录
-2. 复现Nutshell，写文档，整理复现思路后面贴到一生一芯s线，维护Nutshell
-3. nutshell-gem5 ddl 2023.12
-4. riscv-perf-model systemc学习
-5. rocket-chip rocket-core核+boom核复现
-6. 玄铁系列
+## 入门水平
+一生一芯A线全部完成
+
+## 初级水平
+1. 复现或完全理解nutshell代码，能够给nutshell提patch
+2. 独立完成micro-arch-training
+
+## 2023项目任务
+1. 推进nutshell-gem5
+2. 推进nutshell-perf-model
+3. 推进nutshell-systemc-model
+4. 重构nutshell文档，编写一生一芯A和S线讲义
+
+## 后续项目任务
+1. 在给定的微架构框架下，实现boom、玄铁系列模拟器迭代
+
+
