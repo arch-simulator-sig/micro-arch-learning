@@ -1,8 +1,8 @@
 # micro-arch-learning
 
 ## 入门水平
-1. 一生一芯A线全部完成
-2. 熟练调试波形
+1. 6个月完成一生一芯A线并通过流片考核（附学习记录+git repo）
+2. 熟悉modern c++和面向对象编程
 
 ## 初级水平
 1. 复现或完全理解nutshell（顺序双发架构）代码，能够给nutshell提patch
