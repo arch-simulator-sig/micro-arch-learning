@@ -5,8 +5,8 @@
 2. 熟悉modern c++和面向对象编程
 
 ## 初级水平
-1. 复现或完全理解nutshell（顺序双发架构）代码，能够给nutshell提patch
-2. 独立完成micro-arch-training
+1. 复现或完全理解[nutshell](https://github.com/OSCPU/NutShell)（顺序双发架构）代码，能够给nutshell提patch
+2. 独立完成[micro-arch-training](https://github.com/arch-simulator-sig/micro-arch-training)
 3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html)
 
 ## 当前项目任务
