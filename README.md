@@ -12,8 +12,7 @@
 ## 当前项目任务
 1. 推进nutshell-gem5
 2. 推进nutshell-perf-model
-3. 推进nutshell-systemc-model
-4. 重构nutshell文档，增加更多可读性注释，基于release版本
+3. 重构nutshell文档，增加更多可读性注释，基于release版本
 
 ## 后续项目任务
 1. 在给定的模拟器开发框架下，实现boom、玄铁系列模拟器迭代
