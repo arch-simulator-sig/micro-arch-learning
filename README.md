@@ -20,11 +20,11 @@
 ## 初级水平
 1. 复现或完全理解[nutshell](https://github.com/OSCPU/NutShell)（改顺序双发架构）代码，能够给nutshell提patch + 启动最新版Linux  [复现规则TODO]
 2. 独立完成[micro-arch-training](https://github.com/arch-simulator-sig/micro-arch-training) + [论文复现](https://github.com/arch-simulator-sig/gem5-with-chinese-comment)    （6week + 2week） [论文复现待定]
-3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [待定]
+3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，该部分作为高阶软件基础]
 
 ## 当前项目任务
-1. 推进nutshell-gem5
-2. 待定
+1. 完成顺序核设计，基础组件都需要，了解一致性协议，完成nutshell-gem5
+2. 开始乱序踩坑，参考志锐的dream-core-v2
 
 ## 后续项目任务
 1. 在给定的模拟器开发框架下，实现boom、玄铁系列模拟器迭代
