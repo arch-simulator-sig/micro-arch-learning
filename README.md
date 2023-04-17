@@ -24,11 +24,11 @@
 
 ## 当前项目任务
 1. 完成顺序核设计，基础组件都需要，了解一致性协议，完成nutshell-gem5
-2. 开始乱序踩坑，参考志锐的dream-core-v2
+2. 开始乱序踩坑，参考志锐的dream-core-v2 / boom，这个需要评估一下
 
 ## 后续项目任务
-1. 在给定的模拟器开发框架下，实现boom、玄铁系列模拟器迭代
-2. 根据项目需求学习多核、乱序相关知识，完成包括但不限于MIT6.175，MIT6.375，[CS152](https://inst.eecs.berkeley.edu/~cs152/sp21/)，[computer architecture](https://safari.ethz.ch/architecture/doku.php)等相关课程，整理一生一芯S线讲义
+1. 在给定的模拟器开发框架下，实现香山模拟器迭代
+2. 根据项目需求学习多核、乱序相关知识，完成包括但不限于MIT6.175，MIT6.375，[CS152](https://inst.eecs.berkeley.edu/~cs152/sp21/)，[computer architecture](https://safari.ethz.ch/architecture/doku.php)等相关课程，boom，整理一生一芯S线讲义
 
 ref [志锐乱序踩坑之旅](https://docs.qq.com/sheet/DWlh0RXNmWm9PeUdi?tab=BB08J2)
 
