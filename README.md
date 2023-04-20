@@ -23,7 +23,7 @@
 3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，该部分作为高阶软件基础]
 
 ## 当前项目任务
-1. 完成顺序核设计，基础组件都需要，了解一致性协议，完成nutshell-gem5
+1. 完成顺序核设计，基础组件都需要，了解一致性协议，完成nutshell-gem5或参考志锐的方案学一下框架
 2. 开始乱序踩坑，参考志锐的dream-core-v2 / boom，这个需要评估一下
 
 ## 后续项目任务
