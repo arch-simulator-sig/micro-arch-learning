@@ -22,9 +22,13 @@
 2. 独立完成[micro-arch-training](https://github.com/arch-simulator-sig/micro-arch-training) + [论文复现](https://github.com/arch-simulator-sig/gem5-with-chinese-comment)    （6week + 2week） [论文复现待定]
 3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，该部分作为高阶软件基础]
 
-## 当前项目任务
-1. 完成顺序核设计，基础组件都需要，了解一致性协议，完成nutshell-gem5或参考志锐的方案学一下框架
-2. 开始乱序踩坑，参考志锐的dream-core-v2 / boom，这个需要评估一下
+## 2023年项目任务
+1. 跟着周哥学，听从安排
+2. 乱序踩坑，参考志锐的dream-core-v1/v2，参考gem5的实现，看书+论文
+3. 实现一个顺序或乱序的开源 simulator + RTL，看大家需求发论文+写项目申报书 [架构未定]
+4. 学习时序模型：sparta / gem5 / dreamcore / zsim
+5. 学习性能分析工具和方法，熟悉xiangshan的前端架构设计
+
 
 ## 后续项目任务
 1. 在给定的模拟器开发框架下，实现香山模拟器迭代
