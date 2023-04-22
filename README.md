@@ -2,20 +2,21 @@
 
 
 
-## 入门水平
+## 零基础
 1. 6个月完成一生一芯A线并通过流片考核（附学习记录+git repo）
 2. 熟练运用chatgpt解决大多数问题
 
-## 初级水平
+## 入门水平
 1. 能完整看明白超标量处理器设计，独立完成[micro-arch-training](https://github.com/arch-simulator-sig/micro-arch-training) [确定，乱序入门]
-2. [论文复现](https://github.com/arch-simulator-sig/gem5-with-chinese-comment)    （2week） [确定，用于熟悉gem5]
-3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，该部分作为高阶软件基础]
+2. [论文复现](https://github.com/arch-simulator-sig/gem5-with-chinese-comment)    （2week） [确定，gem5独立项目入门]
+3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，高阶软件基础入门]
 
 ## 2023年项目任务
-1. 跟着周哥学习性能分析工具和方法，熟悉xiangshan的前端架构设计
+1. 跟着周哥学习性能分析工具和方法，在给定的模拟器框架上搭建性能分析工具，熟悉xiangshan的前端架构设计
 2. 乱序踩坑，参考志锐的dream-core-v1/v2，参考gem5的实现，看书+论文
 3. 实现一个顺序或乱序的开源 simulator + RTL，看大家需求发论文+写项目申报书 [架构未定]
-4. 学习和分析时序模型：sparta / gem5 / dreamcore / zsim
+4. 学习和分析时序模型：sparta / gem5 / dreamcore / zsim 
+
 
 
 ## 后续项目任务
