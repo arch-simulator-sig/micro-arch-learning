@@ -41,6 +41,8 @@ ref [志锐乱序踩坑之旅](https://docs.qq.com/sheet/DWlh0RXNmWm9PeUdi?tab=B
 
 ref [超标量处理器设计书合集](https://caiyun.139.com/m/i?0g5CM8SfyyHjC)  x4Pa提取
 
+ref [IA&C Lab@Fudan - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1236963527866175488)
+
 ref 量化研究方法第六版
 
 跨时钟域：[文档1](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf) [文档2](http://www.sunburst-design.com/papers/CummingsSNUG2001SJ_AsyncClk.pdf)
