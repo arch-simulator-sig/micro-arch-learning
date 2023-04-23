@@ -7,7 +7,7 @@
 2. 熟练运用chatgpt解决大多数问题
 
 ## 入门水平
-1. 能完整看明白超标量处理器设计，独立完成[micro-arch-training](https://github.com/arch-simulator-sig/micro-arch-training) [确定，乱序入门]
+1. 能完整看明白超标量处理器设计，独立完成[micro-arch-training](https://github.com/arch-simulator-sig/micro-arch-training)  和 dreamcoreV1[确定，乱序入门]
 2. [论文复现](https://github.com/arch-simulator-sig/gem5-with-chinese-comment)    （2week） [确定，gem5独立项目入门]
 3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，高阶软件基础入门]
 
@@ -39,7 +39,9 @@
 
 ref [志锐乱序踩坑之旅](https://docs.qq.com/sheet/DWlh0RXNmWm9PeUdi?tab=BB08J2)
 
-ref [超标量处理器设计书合集](https://caiyun.139.com/m/i?0g5CM8SfyyHjC)  x4Pa提取
+ref [超标量处理器设计书合集](https://caiyun.139.com/m/i?0g5CM8SfyyHjC)  x4Pa提取
+
+ref 量化研究方法第六版
 
 跨时钟域：[文档1](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf) [文档2](http://www.sunburst-design.com/papers/CummingsSNUG2001SJ_AsyncClk.pdf)
 
