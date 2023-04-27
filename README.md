@@ -18,6 +18,12 @@
 4. 学习和分析时序模型：sparta / gem5 / dreamcore / zsim 
 
 
+## 处理器设计示例
+1. MIPS R10K
+2. Intel P6
+3. Alpha 21264
+4, PowerPC 620
+
 
 ## 后续项目任务
 1. 在给定的模拟器开发框架下，实现香山模拟器迭代
