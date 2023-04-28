@@ -7,14 +7,14 @@
 2. 熟练运用chatgpt解决大多数问题
 
 ## 入门水平
-1. 超标量处理器设计 + 现代处理器设计 + 高性能超标量CPU + 量化 + 普林斯顿视频课程（可选）       [理论入门]
+1. 超标量处理器设计 + 现代处理器设计 + 高性能超标量CPU + 量化 + 普林斯顿视频课程       [理论入门]
 2. 写一款自己的超标量，可以参考dreamCore
 3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，高阶软件基础入门]
 
 ## 2023年项目任务
-1. 跟着周哥学习性能分析工具和方法，在给定的模拟器框架上搭建性能分析工具，熟悉xiangshan的前端架构设计
-2. 实现一个顺序或乱序的开源 simulator + RTL，看大家需求发论文+写项目申报书 [架构未定]
-3. 学习和分析时序模型：sparta / gem5 / dreamcore / zsim 
+1. 超标量入门，dreamCore v1 v2
+3. 学习和分析模拟器设计方案：sparta / gem5 / dreamcore / zsim / systemc / systemc TLM / o3-beta , 后续待定
+3. 针对同一个微架构，编写不同的模拟器设计方案进行评测，探索一种通用的模拟器设计方法
 
 
 ## 处理器设计示例
