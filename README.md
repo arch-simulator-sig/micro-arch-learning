@@ -11,7 +11,11 @@
 2. 写一款自己的超标量，可以参考dreamCore
 3. 独立完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/ch21.html) (4week) [确定，高阶软件基础入门]
 
-## 项目任务
+## 当前任务
+1. 超标量体系结构入门 -> dreamCore v1+v2
+2. 熟悉E203架构
+
+## 长期项目任务
 1. 超标量体系结构入门
 3. 学习和分析模拟器设计方案：sparta / gem5 / dreamcore / zsim / systemc / systemc TLM / o3-beta , 后续有新的再加
 3. 针对同一个微架构（蜂鸟E203），编写不同的模拟器设计方案进行评测，探索一种通用的模拟器设计方法
