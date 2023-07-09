@@ -52,6 +52,8 @@ ref [超标量处理器设计书合集](https://caiyun.139.com/m/i?0g5CM8SfyyHjC
 
 ref [IA&C Lab@Fudan - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1236963527866175488)
 
+ref [已经做完的micro-arch-learning，禁止参考答案](https://github.com/MaxKev1n/micro-arch-learning)
+
 ref 量化研究方法第六版
 
 跨时钟域：[文档1](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf) [文档2](http://www.sunburst-design.com/papers/CummingsSNUG2001SJ_AsyncClk.pdf)
