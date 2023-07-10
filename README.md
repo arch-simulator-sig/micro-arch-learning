@@ -7,7 +7,7 @@
 2. 熟练运用chatgpt解决大多数问题
 
 ## 今年要做的事情
-1. micro arch training 全部看完和做完，包括paper，理解乱序思路，理解采样工具
+1. [micro arch training](https://github.com/shinezyy/micro-arch-training) 全部看完和做完，包括paper，理解乱序思路，理解采样工具
 2. 超标量体系结构入门 -> dreamCore v1+v2（不仅包括代码，还有测试思路，各种仿真工具） ，超标量处理器设计，量化，现代处理器设计，高性能超标量cpu（可选）[熟悉超标量]
 3. 完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/index.html) (4week) [确定，高阶软件基础入门]
 2. 熟悉E203架构，未来1-1.5内的架构基准，所有模拟器基于该架构进行
