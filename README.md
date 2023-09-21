@@ -7,15 +7,15 @@
 2. 熟练运用chatgpt解决大多数问题
 
 ## 今年要做的事情
-1. [micro arch training](https://github.com/shinezyy/micro-arch-training) 全部看完和做完，包括paper，理解乱序思路，理解采样工具
+1. [micro arch training](https://github.com/shinezyy/micro-arch-training) 全部看完和做完，包括paper，理解乱序思路，理解采样工具,gem5可以不做，但是能读懂代码
 2. 超标量体系结构入门 -> dreamCore v1+v2（不仅包括代码，还有测试思路，各种仿真工具） ，超标量处理器设计，量化，现代处理器设计，高性能超标量cpu（可选）[熟悉超标量]
 3. 完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/index.html) (4week) [确定，高阶软件基础入门]
-2. 熟悉E203架构，未来1-1.5内的架构基准，所有模拟器基于该架构进行
+2. 熟悉rocket core架构
 
 ## 长期项目任务
 1. 超标量体系结构入门
 3. 学习和分析模拟器设计方案：sparta / gem5 / dreamcore / zsim / systemc / systemc TLM / o3-beta , 后续有新的再加
-3. 针对同一个微架构（蜂鸟E203），编写不同的模拟器设计方案进行评测，探索一种通用的模拟器设计方法
+3. 从简单的核开始迭代模拟器框架，探索一种通用的模拟器设计方法
 4. 使用探索到的通用设计方法，建模香山，从cycle accurate开始，自底向上进行抽象，逐步过渡到性能调优，性能探索
 
 ## 处理器设计示例
@@ -29,7 +29,7 @@
 
 
 ## 后续项目任务
-1. 在给定的模拟器开发框架下，实现香山模拟器迭代
+1. 在给定的模拟器开发框架下，实现香山mini模拟器迭代
 2. 根据项目需求学习多核、乱序相关知识，完成包括但不限于普林斯顿体系结构，MIT6.175，MIT6.375，[CS152](https://inst.eecs.berkeley.edu/~cs152/sp21/)，[computer architecture](https://safari.ethz.ch/architecture/doku.php)等相关课程，boom，玄铁，整理一生一芯S线讲义
 
 
