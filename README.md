@@ -1,6 +1,6 @@
 # micro-arch-learning
 
-
+[高级体系结构研讨会传送门](https://github.com/arch-simulator-sig/advanced-computer-architecture)
 
 ## 进入门槛
 1. 6个月完成一生一芯A线并通过流片考核（附学习记录+git repo）
