@@ -3,20 +3,18 @@
 [高级体系结构研讨会传送门](https://github.com/arch-simulator-sig/advanced-computer-architecture)
 
 ## 进入门槛
-1. 6个月完成一生一芯A线并通过流片考核（附学习记录+git repo）
-2. 熟练运用chatgpt解决大多数问题
+6个月完成一生一芯6期A线（rv64imac+boot linux + pa4 finished) 并通过流片考核（附学习记录+git repo）
 
 ## 今年要做的事情
-1. [micro arch training](https://github.com/shinezyy/micro-arch-training) 全部看完和做完，包括paper，理解乱序思路，理解采样工具,gem5可以不做，但是能读懂代码
-2. 超标量体系结构入门 -> dreamCore v1+v2（不仅包括代码，还有测试思路，各种仿真工具） ，超标量处理器设计，量化，现代处理器设计，高性能超标量cpu（可选）[熟悉超标量]
-3. 完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/index.html) (4week) [确定，高阶软件基础入门]
-2. 熟悉rocket core架构
+1. 超标量体系结构入门 ，超标量处理器设计，量化，现代处理器设计，高性能超标量cpu
+2. 完成[quard-star-tutorial](https://quard-star-tutorial.readthedocs.io/zh_CN/latest/index.html) (4week) [确定，高阶软件基础入门]
+3. 6.175/6.375 一致性入门
+4. cva6完全剖析
 
-## 长期项目任务
-1. 超标量体系结构入门
-3. 学习和分析模拟器设计方案：sparta / gem5 / dreamcore / zsim / systemc / systemc TLM / o3-beta , 后续有新的再加
-3. 从简单的核开始迭代模拟器框架，探索一种通用的模拟器设计方法
-4. 使用探索到的通用设计方法，建模香山，从cycle accurate开始，自底向上进行抽象，逐步过渡到性能调优，性能探索
+## 长期项目任务 (截止24年6月)
+1. sim-godson riscv cva6  boot linux
+2. nop-processor/rocketchip 文档
+3. perf model +  chisel3
 
 ## 处理器设计示例
 1. MIPS R10K
